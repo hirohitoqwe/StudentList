@@ -22,6 +22,6 @@ if (isset($_COOKIE['login'])){
         <p><input type="password" name="pass" required/></p>
         <p><input type="submit" /></p>
     </form>
-    <p>Если у вас нет профиля перейдите по ссылке <a href="index.php"> click click </a></p>
+    <p>Если у вас нет профиля перейдите по <a href="index.php">ссылке</a></p>
 </body>
 </html>

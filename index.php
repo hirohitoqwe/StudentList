@@ -30,6 +30,6 @@ if (isset($_COOKIE['registration'])){
         <p><input type="text" name="direction" required /></p>
         <p><input type="submit" /></p>
     </form>
-    <p>Если у вас есть профиль перейдите по ссылке <a href="login.php"> click click </a></p>
+    <p>Если у вас есть профиль перейдите по <a href="login.php"> ссылке  </a></p>
 </body>
 </html>
